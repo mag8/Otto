@@ -1,0 +1,232 @@
+:root {
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-size-size-maxwidth: 1400px;
+  --dl-radius-radius-round: 50%;
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-color-brand-pinkc7342: rgba(242, 43, 178, 1);
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-color-accent-cyan96ff3: rgba(160, 219, 255, 1);
+  --dl-space-space-threeunits: 48px;
+  --dl-color-accent-peach3c7b4: rgba(243, 159, 159, 1);
+  --dl-color-brand-orange8540f: rgba(254, 154, 34, 1);
+  --dl-color-brand-purplecd43d: rgba(140, 48, 245, 1);
+  --dl-color-text-gray1002ff39: rgba(244, 245, 247, 1);
+  --dl-color-text-gray200ed811: rgba(238, 239, 244, 1);
+  --dl-color-text-gray3003f91a: rgba(217, 219, 225, 1);
+  --dl-color-text-gray7002ada4: rgba(150, 155, 171, 1);
+  --dl-color-text-gray800c5c9e: rgba(71, 74, 87, 1);
+  --dl-color-text-gray9005dca1: rgba(24, 25, 31, 1);
+  --dl-color-brand-pink100a074a: rgba(255, 177, 230, 1);
+  --dl-color-brand-pink80006c62: rgba(255, 113, 209, 1);
+  --dl-color-default-blackf0672: rgba(11, 13, 23, 1);
+  --dl-color-default-whited1493: rgba(255, 255, 255, 1);
+  --dl-color-gradient-whitedcdf4: rgba(255, 255, 255, 1);
+  --dl-color-brand-orange10039c53: rgba(255, 226, 193, 1);
+  --dl-color-brand-orange80071c7b: rgba(255, 193, 120, 1);
+  --dl-color-brand-purple1006e51b: rgba(240, 228, 255, 1);
+  --dl-color-brand-purple8002b668: rgba(214, 177, 255, 1);
+  --dl-color-brand-turquoise514c9: rgba(46, 197, 206, 1);
+  --dl-space-space-oneandhalfunits: 24px;
+  --dl-color-accent-lightpeach99ba0: rgba(253, 217, 217, 1);
+  --dl-color-accent-pastelblue282a7: rgba(192, 217, 229, 1);
+  --dl-color-accent-cottoncandyba3b9: rgba(255, 195, 216, 1);
+  --dl-color-accent-pastelgreenb4ed7: rgba(193, 229, 192, 1);
+  --dl-color-brand-turquoise1004ae95: rgba(213, 250, 252, 1);
+  --dl-color-brand-turquoise80042ff0: rgba(116, 227, 233, 1);
+  --dl-color-gradient-subtleblueba445: rgba(217, 232, 239, 1);
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+}
+.content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.subtitleSubtitle1 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.headingH2 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.headingH4 {
+  font-size: 28px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.othersCapitalised {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.subtitleSubtitle2 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.labelSmallLabel {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.leadLead2 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.headingH6 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.bodyBody2 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.headingH5 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.labelLargeLabel {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.leadLead1 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.bodyBody1 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  font-stretch: normal;
+}
+.labelMediumLabel {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 500;
+  font-stretch: normal;
+}
+.headingH3 {
+  font-size: 40px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.headingH1 {
+  font-size: 72px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700;
+  font-stretch: normal;
+}
+.othersBadgeLabel {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Nanum Pen;
+  font-weight: 400;
+  font-stretch: normal;
+}

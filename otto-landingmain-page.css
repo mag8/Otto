@@ -1,0 +1,1059 @@
+.otto-landingmain-page-container {
+  min-height: 100vh;
+}
+.otto-landingmain-page-otto-landingcontainer {
+  width: 100%;
+  height: 5140px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-headercontainer {
+  top: 0px;
+  width: 100%;
+  height: 72px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: #ffffff;
+}
+.otto-landingmain-page-nav-items {
+  top: 26px;
+  left: 914px;
+  width: 361px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-headermenu-default19144791 {
+  width: 41px;
+  height: 20px;
+  margin: 0 32px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-text {
+  color: var(--dl-color-text-gray9005dca1);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.otto-landingmain-page-menu-item-default19144785 {
+  width: 58px;
+  height: 20px;
+  margin: 0 32px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-text01 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.otto-landingmain-page-menu-item-default19144787 {
+  width: 31px;
+  height: 20px;
+  margin: 0 32px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-text02 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.otto-landingmain-page-menu-item-default19144789 {
+  width: 33px;
+  height: 20px;
+  margin: 0 32px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-text03 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.otto-landingmain-page-menu-item-default19144783 {
+  width: 70px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-text04 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.otto-landingmain-page-logo {
+  top: 22px;
+  left: 165px;
+  width: 105px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-logomark-color19113075 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-image {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-svg {
+  top: 6.5199995040893555px;
+  left: 37.20000076293945px;
+  width: 68;
+  height: 18;
+  position: absolute;
+}
+.otto-landingmain-page-herocontainer {
+  top: 72px;
+  width: 100%;
+  height: 866px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-backgroundwrapper {
+  width: 1443px;
+  height: 866px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-image01 {
+  width: 100%;
+  height: 794px;
+  align-self: flex-start;
+  object-fit: cover;
+}
+.otto-landingmain-page-phone-mockup19113003 {
+  top: 168px;
+  left: 925px;
+  width: 320px;
+  height: 640px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.otto-landingmain-page-image02 {
+  width: 378px;
+  height: 698px;
+  object-fit: cover;
+}
+.otto-landingmain-page-content19113005 {
+  top: 220px;
+  left: 165px;
+  width: 730px;
+  height: 374px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text05 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 730px;
+  height: auto;
+  margin: 0 0 32px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 98px;
+}
+.otto-landingmain-page-button19144830 {
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 12px 32px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 6px;
+  background-color: rgba(193, 70, 52, 1);
+}
+.otto-landingmain-page-text06 {
+  color: var(--dl-color-default-whited1493);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.otto-landingmain-page-belaycontainer {
+  top: 928px;
+  width: 100%;
+  height: 704px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-belaywrapper {
+  width: 100%;
+  bottom: 0px;
+  height: 704px;
+  margin: auto;
+  display: flex;
+  padding: 64px 165px;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-belaycontent {
+  width: 100%;
+  height: 128px;
+  margin: 0 0 48px 0;
+  display: flex;
+  position: relative;
+  max-width: 1110px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-text07 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 540px;
+  height: auto;
+  margin: 0 30px 0 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 54px;
+}
+.otto-landingmain-page-text08 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 540px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-imagebelay {
+  width: 1110px;
+  height: 400px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.otto-landingmain-page-communitycontainer {
+  top: 1632px;
+  width: 100%;
+  height: 800px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-communitywrapper {
+  top: 0px;
+  width: 100%;
+  height: 800px;
+  margin: auto;
+  display: flex;
+  padding: 64px 165px;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-community-content {
+  top: 237px;
+  left: 165px;
+  width: 100%;
+  height: 326px;
+  display: flex;
+  position: absolute;
+  max-width: 1110px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 16px;
+  flex-direction: column;
+  background-color: rgba(46, 134, 140, 1);
+}
+.otto-landingmain-page-content19113086 {
+  width: 540px;
+  height: 326px;
+  display: flex;
+  padding: 40px 48px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text09 {
+  color: var(--dl-color-default-whited1493);
+  width: 444px;
+  height: auto;
+  margin: 0 0 32px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 54px;
+}
+.otto-landingmain-page-text10 {
+  color: rgba(241, 242, 246, 1);
+  width: 444px;
+  height: auto;
+  margin: 0 0 32px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-community-phone-mockup {
+  top: 80px;
+  left: 735px;
+  width: 540px;
+  height: 640px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-mobilei-phone-x19113097 {
+  width: 320px;
+  height: 640px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  box-sizing: border-box;
+  align-items: stretch;
+  flex-direction: column;
+}
+.otto-landingmain-page-image03 {
+  width: 360px;
+  height: 660px;
+  align-self: stretch;
+  object-fit: cover;
+}
+.otto-landingmain-page-user-infocontainer {
+  top: 2432px;
+  width: 100%;
+  height: 668px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-user-infowrapper {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 668px;
+  display: flex;
+  padding: 64px 165px;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-user-info-phone-mockup {
+  width: 540px;
+  height: 540px;
+  margin: 0 30px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: #EFCE9C;
+}
+.otto-landingmain-page-mobilei-phone {
+  top: 56px;
+  left: 90px;
+  width: 360px;
+  height: 720px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: flex-start;
+}
+.otto-landingmain-page-image04 {
+  width: 381px;
+  height: 483px;
+  align-self: flex-start;
+  object-fit: cover;
+}
+.otto-landingmain-page-user-infocontent {
+  width: 540px;
+  height: 302px;
+  display: flex;
+  padding: 0 48px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text11 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 444px;
+  height: auto;
+  margin: 0 0 32px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 54px;
+}
+.otto-landingmain-page-text12 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 444px;
+  height: auto;
+  margin: 0 0 32px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-app-featurescontainer {
+  top: 3100px;
+  width: 100%;
+  height: 960px;
+  margin: auto;
+  display: flex;
+  padding: 64px 165px;
+  position: absolute;
+  max-width: 1442px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-text13 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 730px;
+  height: auto;
+  margin: 0 0 48px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 64px;
+}
+.otto-landingmain-page-app-features-content {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  position: relative;
+  max-width: 1112px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-app-features-features-list {
+  width: 540px;
+  height: 512px;
+  margin: 0 32px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-app-featuresline1 {
+  width: 540px;
+  height: 92px;
+  margin: 0 0 48px 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-image05 {
+  width: 72px;
+  height: 64px;
+  margin: 0 40px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-detailsline1 {
+  width: 428px;
+  height: 92px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text14 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  margin: 0 0 8px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-text15 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.otto-landingmain-page-app-featuresline2 {
+  width: 532px;
+  height: 92px;
+  margin: 0 0 48px 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-image06 {
+  width: 64px;
+  height: 72px;
+  margin: 0 40px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-detailsline2 {
+  width: 428px;
+  height: 92px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text16 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  margin: 0 0 8px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-text17 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.otto-landingmain-page-app-featuresline3 {
+  width: 540px;
+  height: 92px;
+  margin: 0 0 48px 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-frame5819112864 {
+  width: 72px;
+  height: 81.07575988769531px;
+  margin: 0 40px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-image07 {
+  top: 0px;
+  left: 2px;
+  width: 70px;
+  height: 79px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-detailsline3 {
+  width: 428px;
+  height: 92px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text18 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  margin: 0 0 8px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-text19 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.otto-landingmain-page-app-featuresline4 {
+  width: 540px;
+  height: 92px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-image08 {
+  width: 72px;
+  height: 72px;
+  margin: 0 40px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-detailsline4 {
+  width: 428px;
+  height: 92px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text20 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  margin: 0 0 8px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.otto-landingmain-page-text21 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 428px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.otto-landingmain-page-app-features-phone-mockup {
+  width: 540px;
+  height: 720px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-mobilei-phone-x19143562 {
+  width: 360px;
+  height: 720px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.otto-landingmain-page-image09 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  object-fit: cover;
+}
+.otto-landingmain-page-activity-detailcontainer {
+  top: 4062px;
+  width: 100%;
+  height: 668px;
+  margin: auto;
+  display: flex;
+  padding: 80px 165px;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-image10 {
+  width: 1110px;
+  height: 400px;
+  margin: 0 0 30px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.otto-landingmain-page-activity-detailcontent {
+  width: 100%;
+  height: 78px;
+  display: flex;
+  position: relative;
+  max-width: 1110px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-project-title-tagline19113108 {
+  width: 540px;
+  height: 78px;
+  margin: 0 30px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text22 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 540px;
+  height: auto;
+  margin: 0 0 8px 0;
+  align-self: auto;
+  text-align: left;
+  line-height: 40px;
+}
+.otto-landingmain-page-text23 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 540px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+}
+.otto-landingmain-page-text24 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 540px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.otto-landingmain-page-c-t-acontainer {
+  width: 1440px;
+  bottom: 72px;
+  height: 347px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-c-t-awrapper {
+  width: 100%;
+  height: 344px;
+  margin: auto;
+  display: flex;
+  padding: 64px 355px;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-whited1493);
+}
+.otto-landingmain-page-c-t-a-heading {
+  width: 730px;
+  height: 128px;
+  margin: 0 0 40px 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.otto-landingmain-page-text25 {
+  color: var(--dl-color-text-gray9005dca1);
+  width: 730px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 64px;
+}
+.otto-landingmain-page-c-t-a-button {
+  width: 154px;
+  height: 48px;
+  display: flex;
+  padding: 12px 32px;
+  position: relative;
+  align-self: center;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: 6px;
+  background-color: rgba(193, 70, 52, 1);
+}
+.otto-landingmain-page-text26 {
+  color: var(--dl-color-default-whited1493);
+  width: auto;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.otto-landingmain-page-footercontainer {
+  width: 100%;
+  bottom: 0px;
+  height: 72px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.otto-landingmain-page-footerwrapper {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-blackf0672);
+}
+.otto-landingmain-page-logotype-light19144816 {
+  top: 22px;
+  left: 165px;
+  width: 105px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-logomark-color19144824 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.otto-landingmain-page-image11 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-svg1 {
+  top: 6.52001953125px;
+  left: 37.199951171875px;
+  width: 68;
+  height: 18;
+  position: absolute;
+}
+.otto-landingmain-page-social-links19144795 {
+  top: 24px;
+  left: 1131px;
+  width: 144px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.otto-landingmain-page-image12 {
+  width: 24px;
+  height: 24px;
+  margin: 0 16px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-image13 {
+  width: 24px;
+  height: 24px;
+  margin: 0 16px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-image14 {
+  width: 24px;
+  height: 24px;
+  margin: 0 16px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-image15 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.otto-landingmain-page-text27 {
+  top: 24px;
+  left: 584px;
+  color: var(--dl-color-text-gray3003f91a);
+  width: auto;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
